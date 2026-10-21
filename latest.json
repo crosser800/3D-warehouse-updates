@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.2",
-    "packageUrl":  "https://github.com/crosser800/3D-warehouse-updates/releases/download/v.1.0.2/Warehouse-1.0.2.zip",
-    "sha256":  "4FFADDBF1E181F2C159A4DD7C1FD261430999F123DC0BC3C8D8D7A9200FB3E01",
-    "releaseNotes":  "Added in-app account creation"
+    "version":  "1.0.3",
+    "packageUrl":  "https://github.com/crosser800/3D-warehouse-updates/releases/download/v1.0.3/Warehouse-1.0.3.zip",
+    "sha256":  "C11F41D3BD8F61D39A36D931196A8779D71C63282060123D931E504E8582271B",
+    "releaseNotes":  "Updated account creation and editing"
 }
